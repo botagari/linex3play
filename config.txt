@@ -1,6 +1,6 @@
 token=NTcwNzIwNDMxMzU1NTkyNzM5.XMDTCw.bExQ_LYOMA6o6Y0aE-iwq3dV29k
 owner=567694723679125514  
 prefix=3
-game=Linex , Server
+game=3Play
 stayinchannel=true
 songinstatus=true
